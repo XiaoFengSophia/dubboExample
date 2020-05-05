@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans        http://www.springframework.org/schema/beans/spring-beans.xsd        http://code.alibabatech.com/schema/dubbo        http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+ 
+    <!-- 提供方应用名称信息，这个相当于起一个名字，我们dubbo管理页面比较清晰是哪个应用暴露出来的 -->
+    <!--<dubbo:application name="service-provider"/>-->
+    <!--bean 如用次方式即可不在service层 用@Service-->
+    <!--<bean id="bookService" class="com.zxf.serviceImpl.BookServiceImpl"/>-->
+    <!-- 声明需要暴露的服务接口 -->
+    <dubbo:service interface="com.zxf.service.IBookService" ref="bookService"/>
+</beans>

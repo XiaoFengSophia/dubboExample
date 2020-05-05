@@ -8,4 +8,13 @@
   <artifactId>common</artifactId>
   <name>common</name>
   <description>common</description>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.zxf</groupId>
+      <artifactId>entities</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
+
+  </dependencies>
 </project>
