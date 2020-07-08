@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9520912a-3df8-4d02-a598-cc51cf984dcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc6_11_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_16_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/zxf/entity/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/zxf/service/IBookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumers/src/main/java/com/zxf/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumers/src/main/resources/dubbo-consumer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao/src/main/java/com/zxf/idao/EmpIDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao/src/main/java/com/zxf/idao/com/zxf/idao/impl/EmpDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entities/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entities/src/main/java/com/zxf/entities/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entities/src/main/java/com/zxf/rowmapper/EmpRowMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/providers/src/main/java/com/zxf/serviceImpl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/providers/src/main/resources/dubbo-provider.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/entities/entities.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/zxf/common/service/BookService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/zxf/common/service/BookService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/consumers.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/src/main/java/com/zxf/consumer/ConsumerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumers/src/main/java/com/zxf/ConsumerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/src/main/java/com/zxf/consumer/controller/BookController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/target/classes/com/zxf/consumer/ConsumerApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumers/target/classes/com/zxf/consumer/controller/BookController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/providers/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/providers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dao/dao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/src/main/java/com/zxf/provider/ProviderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/providers/src/main/java/com/zxf/ProviderApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/src/main/java/com/zxf/provider/serviceImpl/BookServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/providers/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/target/classes/com/zxf/provider/ProviderApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/providers/target/classes/com/zxf/provider/serviceImpl/BookServiceImpl.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/consumers/target/" />
@@ -96,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/providers/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="375">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -105,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/providers/src/main/java/com/zxf/ProviderApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="325">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/consumers/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -127,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/consumers/src/main/java/com/zxf/ConsumerApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="68" lean-forward="true" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+              <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -218,6 +168,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,37 +176,10 @@
               <item name="dubboExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="dubboExample" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dubboExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubboExample" type="462c0819:PsiDirectoryNode" />
-              <item name="providers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubboExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubboExample" type="462c0819:PsiDirectoryNode" />
-              <item name="providers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubboExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubboExample" type="462c0819:PsiDirectoryNode" />
-              <item name="providers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubboExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dubboExample" type="462c0819:PsiDirectoryNode" />
-              <item name="providers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,7 +288,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18096514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18565683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -419,13 +343,7 @@
     <entry file="file://$PROJECT_DIR$/../../IDEAMAVEN/LocalRespository/com/alibaba/boot/dubbo-spring-boot-starter/0.2.0/dubbo-spring-boot-starter-0.2.0.pom">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/zxf/idao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/zxf/idao.java" />
     <entry file="file://$PROJECT_DIR$/entities/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -508,13 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/consumers/src/main/resources/dubbo-consumer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/src/main/java/com/zxf/entity/Model.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
@@ -529,13 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/consumers/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/consumers/src/main/java/com/zxf/controller/BookController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -543,13 +447,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumers/src/main/java/com/zxf/ConsumerApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="68" lean-forward="true" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -570,10 +467,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/providers/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/providers/src/main/resources/dubbo-provider.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="200">
+          <caret line="8" column="40" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -584,17 +481,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/providers/src/main/resources/dubbo-provider.xml">
+    <entry file="file://$PROJECT_DIR$/providers/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="40" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="375">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumers/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumers/src/main/java/com/zxf/ConsumerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumers/src/main/resources/dubbo-consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/providers/src/main/java/com/zxf/ProviderApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
